@@ -1,0 +1,58 @@
+export const courses = [
+  {
+    id: "content-writing",
+    image: "/images/images 1.jpg",
+    alt: "content writer",
+    title: "Content Writing",
+    rating: "/images/Group 1.jpg",
+  },
+  {
+    id: "ui-ux-design",
+    image: "/images/image 2.jpg",
+    alt: "UI / UX designer",
+    title: "UI / UX Design",
+    rating: "/images/Group 2.jpg",
+  },
+  {
+    id: "code-and-development",
+    image: "/images/image 3.jpg",
+    alt: "coder and developer",
+    title: "Code and Development",
+    rating: "/images/Group 3.jpg",
+  },
+  {
+    id: "photography",
+    image: "/images/image 4.jpg",
+    alt: "photographer",
+    title: "Photography Courses",
+    rating: "/images/Group 4.jpg",
+  },
+  {
+    id: "financial-planner",
+    image: "/images/image 5.jpg",
+    alt: "financial planner",
+    title: "Financial Planner",
+    rating: "/images/Group 5.jpg",
+  },
+  {
+    id: "content-marketing",
+    image: "/images/image 7.jpg",
+    alt: "content marketing",
+    title: "Content Marketing 201",
+    rating: "/images/Group 7.jpg",
+  },
+  {
+    id: "learn-a-language",
+    image: "/images/image 8.jpg",
+    alt: "language tutor",
+    title: " Learn a Language",
+    rating: "/images/Group 8.jpg",
+  },
+  {
+    id: "health-wellness",
+    image: "/images/image 9.jpg",
+    alt: "health coach",
+    title: "Health Wellness",
+    rating: "/images/Group 9.jpg",
+  },
+];
