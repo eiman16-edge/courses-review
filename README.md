@@ -1,0 +1,3 @@
+A responsive skill courses card section built with HTML and CSS. The project features a clean course layout with a heading, descriptive text, course cards, course images, ratings, and enrollment links. CSS Grid is used to organize the cards into four columns on larger screens, two columns on tablets, and a single column on smaller mobile screens. The design also uses responsive typography, flexible sizing, image cropping with object-fit, rounded corners, borders, shadows, and media queries to maintain a clean and responsive layout across different screen sizes.
+
+Live Demo : https://eiman16-edge.github.io/courses-review/
